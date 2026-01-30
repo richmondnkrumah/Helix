@@ -1,0 +1,6 @@
+numpy
+sounddevice
+PySide6
+requests
+google-api-python-client
+openai
